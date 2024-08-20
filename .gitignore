@@ -1,0 +1,48 @@
+# Node.js
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Environment variables
+.env
+
+# Build output
+build/
+coverage/
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# IDE/editor directories
+.vscode/
+.idea/
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+
+
+# Misc
+*.tgz
+*.zip
+*.rar

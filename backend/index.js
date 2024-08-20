@@ -30,6 +30,6 @@ nsServer.listen(PORT,()=>{
 //Setting response for base_url get request
 nsServer.get('/',(req,res)=>{
     console.log(req);
-    res.status(200).send("<h2>The get request Hit Successfully!!!<h2/>")
+    res.status(200).send("<h2>I think you find the Server-Side<h2/>")
 })
 // nsServer.use('/books', router)

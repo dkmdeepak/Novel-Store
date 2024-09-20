@@ -4,7 +4,7 @@
   <li/>Implemented user authentication with JWT and CRUD operations.<li>
  Enabled users to create profiles and manage novels,including creating,editing,and deleting using REST APIs
   <ul/>
-<h2>🚀 Getting Started</h2>
+<h2>🚀 Getting  Started</h2>
 To get started with any of the projects in this repository:
 <br />
 <p>1.  Clone the Repository: </p>
